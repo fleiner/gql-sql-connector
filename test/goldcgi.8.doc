@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>alltypes</title>
+</head>
+<body>
+<h1 color='#f00'>invalid_request: Unknown column 'vrchar' in 'field list'</h1></body>

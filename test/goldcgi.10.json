@@ -1,0 +1,14 @@
+{
+    "handler": "hello", 
+    "res": {
+        "errors": [
+            {
+                "message": "db connection failed", 
+                "reason": "access_denied"
+            }
+        ], 
+        "reqId": 3333, 
+        "status": "error", 
+        "version": "0.7"
+    }
+}

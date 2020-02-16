@@ -1,0 +1,5 @@
+X-Robots-Tag: noindex, nofollow, nosnippet
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Disposition: attachment; filename="data.tsv"; filename*=UTF-8''data.tsv
+Content-Type: text/tab-separated-values; charset=utf-16

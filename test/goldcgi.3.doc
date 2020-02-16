@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>alltypes</title>
+</head>
+<body>
+<table border="1" cellpadding="2" cellspacing="0">
+<tr style="font-weight: bold; background-color: #aaa;">
+<td>int</td><td>varchar</td><td>text</td>
+</tr>
+<tr style="background-color: #f0f0f0">
+<td>0</td><td></td><td></td>
+</tr>
+<tr style="background-color: #ffffff">
+<td>123,123,123</td><td>hello</td><td>&lt;&amp;small&gt;</td>
+</tr>
+<tr style="background-color: #f0f0f0">
+<td>2,000,000,000</td><td>hallo äöü अतुल</td><td>bla</td>
+</tr>
+<tr style="background-color: #ffffff">
+<td>4,294,967,295</td><td>01234567890123456789</td><td>something
+"long"
+and with
+UTF 8
+äöü</td>
+</tr>
+</table>
+</body>
+</html>

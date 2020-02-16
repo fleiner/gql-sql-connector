@@ -1,0 +1,1 @@
+/cgi-bin/mysql.cgi?tq=select+`int`,`varchar`,`text`+order+by+`int`+format+`int`+"%23,%23%23%23"&tqx=out:tsv-excel

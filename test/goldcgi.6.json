@@ -1,0 +1,53 @@
+{
+    "handler": "google.visualization.Query.setResponse", 
+    "res": {
+        "reqId": 0, 
+        "status": "ok", 
+        "table": {
+            "cols": [
+                {
+                    "format": null, 
+                    "id": "mediumint", 
+                    "label": "", 
+                    "pattern": "General", 
+                    "type": "number"
+                }
+            ], 
+            "rows": [
+                {
+                    "c": [
+                        {
+                            "f": "0", 
+                            "v": 0
+                        }
+                    ]
+                }, 
+                {
+                    "c": [
+                        {
+                            "f": "8'000'000", 
+                            "v": 8000000
+                        }
+                    ]
+                }, 
+                {
+                    "c": [
+                        {
+                            "f": "16'777'215", 
+                            "v": 16777215
+                        }
+                    ]
+                }, 
+                {
+                    "c": [
+                        {
+                            "f": "0", 
+                            "v": 0
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "version": "0.7"
+    }
+}

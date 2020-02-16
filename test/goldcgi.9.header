@@ -1,0 +1,5 @@
+X-Robots-Tag: noindex, nofollow, nosnippet
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Disposition: attachment; filename="hello.csv"; filename*=UTF-8''hello.csv
+Content-type: text/csv; charset=utf-8

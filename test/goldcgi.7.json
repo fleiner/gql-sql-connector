@@ -1,0 +1,14 @@
+{
+    "handler": "google.visualization.Query.setResponse", 
+    "res": {
+        "errors": [
+            {
+                "message": "access_denied: table `sometable` does not exists or is not accessible", 
+                "reason": "invalid_query"
+            }
+        ], 
+        "reqId": 0, 
+        "status": "error", 
+        "version": "0.7"
+    }
+}
